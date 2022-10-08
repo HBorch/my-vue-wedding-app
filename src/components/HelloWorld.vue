@@ -5,7 +5,6 @@ defineProps<{
 </script>
 
 <template>
-
   <header>
     <h1>Bodil og Henrik</h1>
     <h3>27. mai 2023 - Voksenåsen Hotell</h3>
