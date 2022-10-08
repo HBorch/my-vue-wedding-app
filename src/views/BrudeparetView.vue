@@ -1,7 +1,7 @@
 <template>
   <div class="OmBrudeparet">
     <h1>Her kommer det litt info om brudeparet</h1>
-    <h1>Vielsen vil skje på Voksenåsen hotell kl 1400.</h1>
+    <p>Bodil er sexy</p>
   </div>
 </template>
   

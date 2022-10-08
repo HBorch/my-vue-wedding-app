@@ -12,8 +12,10 @@ import HelloWorld from './components/HelloWorld.vue'
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">Om Vielsen</RouterLink>
+        <RouterLink to="/about">Informasjon om dagen</RouterLink>
+        <RouterLink to="/reise">Reise og opphold</RouterLink>
         <RouterLink to="/brudeparet">Mer om brudeparet</RouterLink>
+        <RouterLink to="/ønsker">Ønsker</RouterLink>
       </nav>
     </div>
   </header>
