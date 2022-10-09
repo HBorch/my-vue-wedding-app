@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="Image of Bodil & Henrik" class="responsivephoto" src="@/assets/bodiloghenrik3.jpg"/>
+    <img alt="Image of Bodil & Henrik" class="responsivephoto" src="@/assets/bodiloghenrik3.JPG" width="337" height="253" />
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
@@ -34,6 +34,15 @@ header {
   display: block;
   margin: 0 auto 2rem;
 }
+
+.responsivephoto {
+  display: block;
+  margin: 0 auto 2rem;
+  border-radius: 50%;
+  width: 100%;
+  height: auto;
+}
+
 
 nav {
   width: 100%;
