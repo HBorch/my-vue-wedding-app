@@ -1,5 +1,5 @@
 {
-  "extends": "@vue/jsconfig/tsconfig.node.json",
+  "extends": "@vue/jsconfig/jsconfig.node.json",
   "include": ["vite.config.*", "vitest.config.*", "cypress.config.*"],
   "compilerOptions": {
     "composite": true,
