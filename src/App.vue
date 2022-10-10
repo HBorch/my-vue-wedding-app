@@ -1,3 +1,4 @@
+<script>
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
 import MyHeader from './components/MyHeader.vue'
