@@ -1,7 +1,11 @@
-<script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
 import MyHeader from './components/MyHeader.vue'
+import HjemView from './view/HjemtView.vue'
+import BrudeparetView from './view/BrudeparetView.vue'
+import OmBrudeparetView from './view/OmBrudeparetView.vue'
+import ØnskerView from './view/ØnskerView.vue'
+import ReiseView from './view/ReiseView.vue'
 </script>
 
 <template>
