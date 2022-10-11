@@ -1,27 +1,20 @@
-<script>
+<script setup>
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
-import MyHeader from './components/MyHeader.vue'
-import HjemView from './view/HjemtView.vue'
-import BrudeparetView from './view/BrudeparetView.vue'
-import OmBrudeparetView from './view/OmBrudeparetView.vue'
-import ØnskerView from './view/ØnskerView.vue'
-import ReiseView from './view/ReiseView.vue'
 </script>
 
 <template>
-  <MyHeader></MyHeader>
   <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
+    <img alt="Image of Bodil & Henrik" class="headerphoto" src="./assets/bodiloghenrik4.JPG" width="250" height="250"/>
+    <img alt="Text Bodil & Henrik" class="headertekst" src="./assets/Bodil&HenrikTekst.png" />
 
     <div class="wrapper">
-      <HelloWorld msg="You did it!" />
 
       <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">Informasjon om dagen</RouterLink>
+        <RouterLink to="/">Hjem</RouterLink>
+        <RouterLink to="/informasjon">Info</RouterLink>
+        <RouterLink to="/about">About</RouterLink>
         <RouterLink to="/reise">Reise og opphold</RouterLink>
-        <RouterLink to="/brudeparet">Mer om brudeparet</RouterLink>
         <RouterLink to="/ønsker">Ønsker</RouterLink>
       </nav>
     </div>
@@ -35,12 +28,19 @@ header {
   line-height: 1.5;
   max-height: 100vh;
 }
-
+.headerphoto {
+  display: block;
+  border-radius: 50%;
+  margin: 0 auto 2rem;
+}
+.headertekst {
+  display: block;
+  margin: 0 auto 2rem;
+}
 .logo {
   display: block;
   margin: 0 auto 2rem;
 }
-
 
 nav {
   width: 100%;

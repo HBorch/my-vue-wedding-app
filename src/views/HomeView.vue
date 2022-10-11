@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import TheWelcome from '../components/TheWelcome.vue'
 </script>
 
@@ -7,6 +7,3 @@ import TheWelcome from '../components/TheWelcome.vue'
     <TheWelcome />
   </main>
 </template>
-
-<style>
-</style>
