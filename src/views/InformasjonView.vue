@@ -1,7 +1,7 @@
 <template>
   <div class="row1">
     <div class="leftcolumn1">
-      <img alt="Image of Bodil & Henrik" class="headerphoto" src="../assets/bodiloghenrik4.JPG" width="250" height="250"/>
+      <img alt="Image of Bodil & Henrik" class="headerphoto" src="../assets/bodiloghenrik4.png" width="250" height="250"/>
     </div>
     <div class="rightcolumn1">
       <h3>Informasjon</h3>
@@ -19,7 +19,7 @@
 
   <div class="row2">
     <div class="rightcolumn2">
-      <img alt="Image of Bodil & Henrik" class="headerphoto" src="../assets/bodiloghenrik4.JPG" width="250" height="250"/>
+      <img alt="Image of Bodil & Henrik" class="headerphoto" src="../assets/bodiloghenrik4.png" width="250" height="250"/>
     </div>
     <div class="leftcolumn2">
       <h3>Lokasjon</h3>

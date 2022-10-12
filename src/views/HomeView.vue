@@ -1,7 +1,7 @@
 <template> 
 <div class="row">
   <div class="leftcolumn">
-    <img alt="Image of Bodil & Henrik" class="headerphoto" src="../assets/bodiloghenrik4.JPG" width="250" height="250"/>
+    <img alt="Image of Bodil & Henrik" class="headerphoto" src="../assets/bodiloghenrik4.png" width="250" height="250"/>
   </div>
   <div class="rightcolumn">
       <h3>Vi gifter oss!</h3>
