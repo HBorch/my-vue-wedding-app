@@ -39,7 +39,7 @@ nav {
   a,
 .green {
   text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
+  color: rgb(0, 143, 95);
   transition: 0.4s;
 }
   @media (hover: hover) {

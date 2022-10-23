@@ -1,11 +1,15 @@
 <template>
   <div class="row1">
+    
     <div class="leftcolumn1">
+    <div class="card">  
       <img alt="Image of Bodil & Henrik" class="headerphoto" src="../assets/bodiloghenrik4.png" width="250" height="250"/>
     </div>
+    </div>
     <div class="rightcolumn1">
+    <div class="card">
       <h3>Informasjon</h3>
-      <p>Vi er så klare for bryllup, woho</p>
+      <p></p>
       <p>Her kommer det viktig informasjon om selve dagen:</p>
       <img alt="iconHandshake" class="icon" src="../components/icons/handshake.svg">
       <h4>Vielse 1400</h4>
@@ -14,6 +18,7 @@
       <img alt="iconCelebration" class="icon" src="../components/icons/celebration.svg">
       <h4>Middag 1630</h4>
     </div>
+  </div>
   </div>
 <p>-break-</p>
 
@@ -28,15 +33,44 @@
       <p>Veibeskrivelse: </p>
     </div>
   </div>
-
+  
+  <button class="accordion">Section 1</button>
+<div class="panel">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
 
 <p>Test</p>
 </template>
 
+
+
+
+
+
 <script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
 </script>
 
 <style scoped>
+.card {
+  background-color: grey;
+  padding: 20px;
+  margin-top: 20px;
+}
+
 .leftcolumn1 {   
   float: left;
   width: 40%;
@@ -76,21 +110,12 @@
   text-align: center;
 }
 
-/* Fake image */
-.fakeimg {
-  background-color: #aaa;
-  width: 100%;
-  padding: 20px;
-}
-
-
 /* Clear floats after the columns */
 .row1:after {
   content: "";
   display: table;
   clear: both;
 }
-
 .row2:after {
   content: "";
   display: table;
@@ -101,11 +126,36 @@
 @media screen and (max-width: 800px) {
   .leftcolumn1, .rightcolumn1 {   
     width: 100%;
-    padding: 0;
+    padding: 5px;
   }
   .leftcolumn2, .rightcolumn2 {
     width:100%;
-    padding: 0;
+    padding: 5px;
   }
+}
+
+
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc; 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
 }
 </style>

@@ -1,6 +1,7 @@
 <template>
     <header>
-    <img alt="Text Bodil & Henrik" class="headertekst" src="../assets/Bodil&HenrikTekst.png" />
+    <img alt="Text Bodil & Henrik" class="headerimg" src="../assets/images/topp2.png"/>
+    <h1>Bodil & Henrik</h1>
   </header>
 </template>
 
@@ -9,13 +10,17 @@
 
 <style scoped>
 header{
-    padding-top: 20px;
-    text-align: center;
+    margin-bottom: 5px;
 }
-.headertekst {
+.headerimg {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    width: 100%;
 }
+
+
+ header h1{
+     font-family: "Brighte";
+     font-size: 80px;
+     text-align: center;
+  }
 </style>

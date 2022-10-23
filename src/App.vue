@@ -13,4 +13,8 @@ import wedHeader from './components/wedHeader.vue'
 </template>
 
 <style>
+@font-face {
+  font-family: "Brighte";
+  src:url(../src/assets/fonts/BrighteTTf.ttf) format("truetype");
+}
 </style>
