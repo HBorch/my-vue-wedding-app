@@ -3,7 +3,7 @@
     
     <div class="leftcolumn1">
     <div class="card">  
-      <img alt="Image of Bodil & Henrik" class="headerphoto" src="../assets/bodiloghenrik4.png" width="250" height="250"/>
+      <img alt="Image of Bodil & Henrik" class="headerphoto" src="../assets/images/bodiloghenrik4.png" width="250" height="250"/>
     </div>
     </div>
     <div class="rightcolumn1">
@@ -11,11 +11,11 @@
       <h3>Informasjon</h3>
       <p></p>
       <p>Her kommer det viktig informasjon om selve dagen:</p>
-      <img alt="iconHandshake" class="icon" src="../components/icons/handshake.svg">
+      <img alt="iconHandshake" class="icon" src="../assets/icons/handshake.svg">
       <h4>Vielse 1400</h4>
-      <img alt="iconAgreement" class="icon" src="../components/icons/location.svg">
+      <img alt="iconAgreement" class="icon" src="../assets/icons/location.svg">
      <h4>Voksenåsen Hotell</h4>
-      <img alt="iconCelebration" class="icon" src="../components/icons/celebration.svg">
+      <img alt="iconCelebration" class="icon" src="../assets/icons/celebration.svg">
       <h4>Middag 1630</h4>
     </div>
   </div>
@@ -24,7 +24,7 @@
 
   <div class="row2">
     <div class="rightcolumn2">
-      <img alt="Image of Bodil & Henrik" class="headerphoto" src="../assets/bodiloghenrik4.png" width="250" height="250"/>
+      <img alt="Image of Bodil & Henrik" class="headerphoto" src="../assets/images/bodiloghenrik4.png" width="250" height="250"/>
     </div>
     <div class="leftcolumn2">
       <h3>Lokasjon</h3>
