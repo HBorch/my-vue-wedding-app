@@ -1,161 +1,131 @@
-<template>
-  <div class="row1">
-    
-    <div class="leftcolumn1">
-    <div class="card">  
-      <img alt="Image of Bodil & Henrik" class="headerphoto" src="../assets/images/bodiloghenrik4.png" width="250" height="250"/>
+<template> 
+  <div class="row">
+    <div class="leftcolumn">
+      <img alt="Image of Bodil & Henrik" class="circlephoto" src="../assets/images/bodiloghenrik4.png" width="300" height="300"/>
     </div>
-    </div>
-    <div class="rightcolumn1">
-    <div class="card">
-      <h3>Informasjon</h3>
-      <p></p>
-      <p>Her kommer det viktig informasjon om selve dagen:</p>
-      <img alt="iconHandshake" class="icon" src="../assets/icons/handshake.svg">
-      <h4>Vielse 1400</h4>
-      <img alt="iconAgreement" class="icon" src="../assets/icons/location.svg">
-     <h4>Voksenåsen Hotell</h4>
-      <img alt="iconCelebration" class="icon" src="../assets/icons/celebration.svg">
-      <h4>Middag 1630</h4>
-    </div>
-  </div>
-  </div>
-<p>-break-</p>
-
-  <div class="row2">
-    <div class="rightcolumn2">
-      <img alt="Image of Bodil & Henrik" class="headerphoto" src="../assets/images/bodiloghenrik4.png" width="250" height="250"/>
-    </div>
-    <div class="leftcolumn2">
-      <h3>Lokasjon</h3>
-      <p>Både vielsen og festen vil foregå på Voksenåsen Hotell</p>
-      <p>Adresse:</p>
-      <p>Veibeskrivelse: </p>
+    <div class="rightcolumn">
+        <h1>Informasjon</h1>
+        <h4>Tentativ plan over dagen:</h4>
+        <h4>14:00 - Vielse </h4>
+        <h4>17:00 - Mottakelse</h4>  
+        <h4>17:30 - Middag</h4>
+        <h4>22:00 - Fest</h4>
+        <p>Mens brudeparet skal gjennom en obligatorisk bildeseanse kan gjestene mellom vielsen og middag eksempelvis nyte noe sprudlende på terrassen, ta en dukkert i utendørsbassenget eller finne på noe annet moro.</p>
     </div>
   </div>
   
-  <button class="accordion">Section 1</button>
-<div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
+  <div class="row2">
+      <div class="rightcolumn2">
+        <img alt="Image of Bodil & Henrik" class="circlephoto" src="../assets/images/dato.png" width="300" height="auto"/>
+      </div>
+      <div class="leftcolumn2">
+        <h1>Voksenåsen Hotell</h1>
+        <p>Både vielse og fest vil foregå på Voksenåsen Hotell.</p>
+        <p>Vi håper på finvær så vi kan nyte en strålende utsikt over deler av Oslo og Oslofjorden.</p>
+        <p>Adresse: Ullveien 4, 0791 Oslo</p>
+        <p>Nettside: <a href="https://www.voksenaasen.no">Voksenåsen Hotell</a></p>
+        <h4>Veibeskrivelse:</h4>
+        <p>Med bil: Følg skilt mot Majorstuen / Smestad. I Smestadkrysset, kjør mot Holmenkollen. Følg Holmenkollveien forbi hoppanlegget, og følg deretter skilt mot Voksenåsen / Voksenkollen. Med Voksenkollen T-banestasjon på høyre side, ta til venstre i veikrysset med et stort, hvitt skilt mot ”Voksenåsen kultur- og konferansehotell».</p>
+        <p>Med Bane: Ta T-bane nummer 1 mot Frognerseteren. Reisen tar cirka 35 min. Gå av ved stoppested Voksenkollen. Det er nest siste stopp på linjen. Fra Voksenkollen T-banestasjon er det 700 meter til hotellet. Følg det hvite skiltet merket “Voksenåsen kultur- og konferansehotell”.</p>
+      </div>
+    </div>
 
-<p>Test</p>
-</template>
-
-
-
-
-
-
-<script>
-var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
-    } else {
-      panel.style.display = "block";
-    }
-  });
-}
-</script>
-
-<style scoped>
-.card {
-  background-color: grey;
-  padding: 20px;
-  margin-top: 20px;
-}
-
-.leftcolumn1 {   
-  float: left;
-  width: 40%;
-  padding: 5px;
-}
-
-.rightcolumn1 {
-  float: left;
-  width: 60%;
-  padding: 20px;
-}
-.rightcolumn1 h3 {
-  text-align: center;
-}
-
-.rightcolumn1 h4 {
-  color: blue;
-  font-size: 20px ;
-}
-.icon {
-  float: left;
-}
-
-
-.leftcolumn2 {   
-  float: right;
-  width: 60%;
-  padding: 5px;
-}
-
-.rightcolumn2 {
-  float: right;
-  width: 40%;
-  padding: 20px;
-}
-.leftcolumn2 h3 {
-  text-align: center;
-}
-
-/* Clear floats after the columns */
-.row1:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-.row2:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 800px) {
-  .leftcolumn1, .rightcolumn1 {   
+  
+  </template>
+  
+  <script>
+  </script>
+  
+  <style scoped>
+  
+  .leftcolumn {   
+    float: left;
+    width: 50%;
+    padding-top: 25px;
+    height: 300px;
+  }
+  .circlephoto {
+    display: block;
+    border-radius: 50%;
+    margin: 0 auto 2rem;
+  }
+  .rightcolumn {
+    float: left;
+    width: 50%;
+    height: 300px;
+    margin-top: 25px;
+    padding: 30px;
+  }
+  .rightcolumn h1 {
+    font-family: Brighte;
+    font-size: 50px;
+    text-align: center;
+  }
+  .rightcolumn h4 {
+    text-align: center;
+  }
+  
+  .leftcolumn2 {   
+    float: right;
+    width: 50%;
+    text-align: center;
+    padding-top: 100px;
+    height: 300px;
+  }
+  
+  
+  .rightcolumn2 {
+    float: right;
+    width: 50%;
+    padding-top: 25px;
+    height: 350px;
+  }
+  .leftcolumn2 h1 {
+    text-align: center;
+    font-family: Brighte;
+    font-size: 45px;
+  }
+  
+  table {
+    margin-top: 20px;
+    font-family: sans-serif;
+    border-collapse: collapse;
     width: 100%;
-    padding: 5px;
   }
-  .leftcolumn2, .rightcolumn2 {
-    width:100%;
-    padding: 5px;
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
   }
-}
-
-
-.accordion {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-  transition: 0.4s;
-}
-
-.active, .accordion:hover {
-  background-color: #ccc; 
-}
-
-.panel {
-  padding: 0 18px;
-  display: none;
-  background-color: white;
-  overflow: hidden;
-}
+  
+  tr:nth-child(even) {
+    background-color: #f4fffa;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .row2:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  
+  /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 800px) {
+    .leftcolumn, .rightcolumn {   
+      width: 100%;
+      padding: 25px;
+    }
+    .leftcolumn2, .rightcolumn2 {
+      width:100%;
+      padding: 25px;
+    }
+  }
+  </style>
 </style>

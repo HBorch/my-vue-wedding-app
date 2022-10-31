@@ -6,7 +6,7 @@
   <div class="rightcolumn">
       <h1>Vi gifter oss!</h1>
       <p>Vi gleder oss stort til å samle familie og venner for å feire bryllupet vårt!</p>
-      <p>På denne nettsiden finner dere mye relevant, samt en del ikke-relevant, informasjon om den store dagen. Sørg for å ta en titt når datoen nærmer seg for å sikre at dere har fått siste oppdaterte informasjon.</p>
+      <p>Akkurat nå er det ikke så mye innhold her på nettsiden, men tanken er at all nyttig informasjon om den store dagen blir å finne her. Så sørg for å ta en titt når datoen nærmer seg for å sikre at dere har fått siste oppdaterte informasjon.</p>
       <h5>-Bodil og Henrik</h5>
   </div>
 </div>
@@ -29,8 +29,8 @@
   </div>
   <div class="rightcolumn">
     <h1>Kontaktinformasjon</h1>
-    <p>Her følger en liste over relevant kontaktinformasjon for sentrale aktører denne dagen:</p>
-    <table>
+    <p>Her kommer det litt info om hvem man kan nå hvis man har noe en lurer på.</p>
+     <!--<table>
       <tr>
     <th>Hvem</th>
     <th>Hva</th>
@@ -67,7 +67,7 @@
     <td>...</td>
     <td>...</td>
   </tr>
-</table>
+</table>--->
   </div>
 </div>
 
