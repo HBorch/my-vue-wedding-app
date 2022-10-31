@@ -3,8 +3,6 @@
         <RouterLink to="/">Hjem</RouterLink>
         <RouterLink to="/informasjon">Info</RouterLink>
         <RouterLink to="/reise">Reise og opphold</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-        <RouterLink to="/bilder">Bilder</RouterLink>
         <RouterLink to="/ønsker">Ønsker</RouterLink>
     </nav>
 </template>

@@ -102,5 +102,4 @@
         padding: 25px;
       }
     }
-    </style>
-  </style>
+</style>
