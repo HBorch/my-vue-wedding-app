@@ -18,6 +18,7 @@
     <div class="leftcolumn2">
       <h1>RSVP</h1>
       <p>Vi har bedt om respons innen 1. feb 23, men jo før - jo bedre!</p>
+      <p>Hvis du har noen allergier, er vegetarianer eller lignende ønsker vi at dere sier ifra om det også!</p>
       <p>Send oss et svar på hvilket som helst medium, vi er fleksible.</p>
 
     </div>

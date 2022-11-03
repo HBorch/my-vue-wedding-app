@@ -10,7 +10,6 @@
         <h4>17:00 - Mottakelse</h4>  
         <h4>17:30 - Middag</h4>
         <h4>22:00 - Fest</h4>
-        <p>Mens brudeparet skal gjennom en obligatorisk bildeseanse kan gjestene mellom vielsen og middag eksempelvis nyte noe sprudlende på terrassen, ta en dukkert i utendørsbassenget eller finne på noe annet moro.</p>
     </div>
   </div>
   
@@ -24,8 +23,10 @@
         <p>Vi håper på finvær så vi kan nyte en strålende utsikt over deler av Oslo og Oslofjorden.</p>
         <p>Adresse: Ullveien 4, 0791 Oslo</p>
         <p>Nettside: <a href="https://www.voksenaasen.no">Voksenåsen Hotell</a></p>
+        <p></p>
         <h4>Veibeskrivelse:</h4>
         <p>Med bil: Følg skilt mot Majorstuen / Smestad. I Smestadkrysset, kjør mot Holmenkollen. Følg Holmenkollveien forbi hoppanlegget, og følg deretter skilt mot Voksenåsen / Voksenkollen. Med Voksenkollen T-banestasjon på høyre side, ta til venstre i veikrysset med et stort, hvitt skilt mot ”Voksenåsen kultur- og konferansehotell».</p>
+        <p></p>
         <p>Med Bane: Ta T-bane nummer 1 mot Frognerseteren. Reisen tar cirka 35 min. Gå av ved stoppested Voksenkollen. Det er nest siste stopp på linjen. Fra Voksenkollen T-banestasjon er det 700 meter til hotellet. Følg det hvite skiltet merket “Voksenåsen kultur- og konferansehotell”.</p>
       </div>
     </div>
