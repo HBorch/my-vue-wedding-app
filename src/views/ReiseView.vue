@@ -5,10 +5,27 @@
       </div>
       <div class="rightcolumn">
         <h1>Overnatting</h1>
-        <p>Alle gjester er velkomne til å bo akkurat hvor de vil. For de som planlegger å overnatte på Voksenåsen hotell er det avtalt en rabbattert pris når man under booking sier at en skal delta i bryllup med oss den helgen.</p>
+        <p>Alle gjester er velkomne til å bo akkurat hvor de vil. For de som planlegger å overnatte på Voksenåsen hotell er det avtalt en rabbattert pris når man under booking sier at en skal delta i bryllupet vårt den helgen.</p>
         <p>For alle andre tilreisende håper vi at de fleste forhåpentligvis har noen kjente i Oslo-området som en kan innlosjeres hos.</p>
     </div>    
 </div> 
+<div class="row2">
+      <div class="rightcolumn2">
+        <img alt="Image of Bodil & Henrik" class="circlephoto" src="../assets/images/dato.png" width="300" height="auto"/>
+      </div>
+      <div class="leftcolumn2">
+        <h1>Veibeskrivelse</h1>
+        <p>Med bil: Følg skilt mot Majorstuen / Smestad. I Smestadkrysset, kjør mot Holmenkollen. Følg Holmenkollveien forbi hoppanlegget, og følg deretter skilt mot Voksenåsen / Voksenkollen. Med Voksenkollen T-banestasjon på høyre side, ta til venstre i veikrysset med et stort, hvitt skilt mot ”Voksenåsen kultur- og konferansehotell».</p>
+        <p></p>
+        <p>Med Bane: Ta T-bane nummer 1 mot Frognerseteren. Reisen tar cirka 35 min. Gå av ved stoppested Voksenkollen. Det er nest siste stopp på linjen. Fra Voksenkollen T-banestasjon er det 700 meter til hotellet. Følg det hvite skiltet merket “Voksenåsen kultur- og konferansehotell”.</p>
+      </div>
+    </div>
+       
+        
+
+
+
+
     </template>
     
     <script>
