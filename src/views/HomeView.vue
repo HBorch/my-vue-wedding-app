@@ -33,44 +33,6 @@
     <p>Forlover Bodil: Frida (905 85 899)</p>
     <p>Forlover Henrik: Karl Sverre (461 19 626)</p>
     <p>Toasmastere for kvelden: Karoline og Christine (932 21 073)</p>
-     <!--<table>
-      <tr>
-    <th>Hvem</th>
-    <th>Hva</th>
-    <th>Mobil</th>
-    <th>Mail</th>
-  </tr>
-  <tr>
-    <td>Bodil</td>
-    <td>Brud</td>
-    <td>48137656</td>
-    <td>bodilaamokkelbost@gmail.com</td>
-  </tr>
-  <tr>
-    <td>Henrik</td>
-    <td>Brudgom</td>
-    <td>91754697</td>
-    <td>henrikborc@gmail.com</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>Toastmaster</td>
-    <td>...</td>
-    <td>...</td>
-  </tr>
-  <tr>
-    <td>Frida</td>
-    <td>Forlover til bruden</td>
-    <td>...</td>
-    <td>...</td>
-  </tr>
-  <tr>
-    <td>Karl-Sverre</td>
-    <td>Forlover til brudgom</td>
-    <td>...</td>
-    <td>...</td>
-  </tr>
-</table>--->
   </div>
 </div>
 
@@ -105,6 +67,9 @@
   text-align: center;
 }
 
+.rightcolumn p {
+  text-align: center;
+}
 .leftcolumn2 {   
   float: right;
   width: 50%;
