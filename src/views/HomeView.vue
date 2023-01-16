@@ -30,7 +30,9 @@
   </div>
   <div class="rightcolumn">
     <h1>Kontaktinformasjon</h1>
-    <p>Her kommer det litt info om hvem man kan nå hvis man har noe en lurer på.</p>
+    <p>Forlover Bodil: Frida (905 85 899)</p>
+    <p>Forlover Henrik: Karl Sverre (461 19 626)</p>
+    <p>Toasmastere for kvelden: Karoline og Christine (932 21 073)</p>
      <!--<table>
       <tr>
     <th>Hvem</th>

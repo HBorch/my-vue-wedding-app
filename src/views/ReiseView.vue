@@ -5,7 +5,7 @@
       </div>
       <div class="rightcolumn">
         <h1>Overnatting</h1>
-        <p>Alle gjester er velkomne til å bo akkurat hvor de vil. For de som planlegger å overnatte på Voksenåsen hotell er det avtalt en rabbattert pris når man under booking sier at en skal delta i bryllupet vårt den helgen.</p>
+        <p>Alle gjester er velkomne til å bo akkurat hvor de vil. For de som planlegger å overnatte på Voksenåsen hotell er det avtalt en rabbattert pris når man under booking sier at en skal delta i bryllupet vårt den helgen. Bare oppgi navnene våre og si at du deltar i bryllup under bestilling.</p>
         <p>For alle andre tilreisende håper vi at de fleste forhåpentligvis har noen kjente i Oslo-området som en kan innlosjeres hos.</p>
     </div>    
 </div> 

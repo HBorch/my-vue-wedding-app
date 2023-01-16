@@ -10,6 +10,7 @@
         <h4>17:00 - Mottakelse</h4>  
         <h4>17:30 - Middag</h4>
         <h4>22:00 - Fest</h4>
+        <p>Både store og små er velkomne til å delta på vielsen, men festen er tiltenkt kun for de voksne.</p>
     </div>
   </div>
   
@@ -26,7 +27,15 @@
       </div>
     </div>
 
-  
+    <div class="row">
+      <div class="leftcolumn">
+        <img alt="Image of Bodil & Henrik" class="circlephoto" src="../assets/images/bodiloghenrik3.png" width="300" height="300"/>
+      </div>
+      <div class="rightcolumn">
+        <h1>Kleskode</h1>
+        <p>Antrekk for dagen er dress / uniform M2</p>
+      </div>
+    </div>   
   </template>
   
   <script>
