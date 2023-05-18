@@ -7,10 +7,13 @@
         <h1>Informasjon</h1>
         <h4>Tentativ plan over dagen:</h4>
         <h4>14:00 - Vielse </h4>
-        <h4>17:00 - Mottakelse</h4>  
-        <h4>17:30 - Middag</h4>
+        <h4>15:00 - Innsjekk </h4>
+        <h4>16:00 - Apéritif </h4>
+        <h4>16:30 - Mottakelse</h4>  
+        <h4>17:00 - Middag</h4>
         <h4>22:00 - Fest</h4>
         <h4>Både store og små er velkomne til å delta på vielsen, men festen er tiltenkt kun for de voksne.</h4>
+        <h4>På søndag fra kl 1400 er det åpent hus hos Bodils foreldre, og alle som ønsker er velkomne til kaffe og restekaker.</h4>
     </div>
   </div>
   
