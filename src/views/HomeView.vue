@@ -16,10 +16,9 @@
       <img alt="Image of Bodil & Henrik" class="circlephoto" src="../assets/images/dato.png" width="300" height="auto"/>
     </div>
     <div class="leftcolumn2">
-      <h1>RSVP</h1>
-      <p>Vi har bedt om respons innen 1. feb 23, men jo før - jo bedre!</p>
-      <p>Hvis du har noen allergier, er vegetarianer eller lignende ønsker vi at dere sier ifra om det også!</p>
-      <p>Send oss et svar på hvilket som helst medium, vi er fleksible.</p>
+      <h1>Vielse</h1>
+      <p>Vielsen vil gjennomføres utendørs på hotellets terrasse. Det er ikke meldt noe nedbør, men kle dere etter temperaturen.</p>
+  
 
     </div>
   </div>
